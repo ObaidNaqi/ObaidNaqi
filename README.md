@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ObaidNaqi
 - 👀 I’m interested in ..
-- 🌱 I’m currently learning CS50 web development with python and javascript
+- 🌱 I’m currently learning Full Stack Development from ineuron
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me you can email me @obaidnaqi12@gmail.com or via linkedin @ linkedin.com/in/obaid-naqi-512115125
 <!---
